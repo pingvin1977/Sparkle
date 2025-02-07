@@ -122,7 +122,7 @@
                         </constraints>
                     </customView>
                     <button horizontalHuggingPriority="150" verticalHuggingPriority="750" horizontalCompressionResistancePriority="997" translatesAutoresizingMaskIntoConstraints="NO" id="22">
-                        <rect key="frame" x="337" y="12" width="138" height="32"/>
+                        <rect key="frame" x="262" y="12" width="138" height="32"/>
                         <buttonCell key="cell" type="push" title="Remind Me Later" bezelStyle="rounded" alignment="center" borderStyle="border" inset="2" id="171">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                             <font key="font" size="13" name="MonaSans-ExtraLight_Regular"/>
@@ -138,10 +138,10 @@ Gw
                         </connections>
                     </button>
                     <button horizontalHuggingPriority="20" verticalHuggingPriority="750" horizontalCompressionResistancePriority="1000" translatesAutoresizingMaskIntoConstraints="NO" id="76">
-                        <rect key="frame" x="473" y="12" width="134" height="32"/>
+                        <rect key="frame" x="398" y="12" width="209" height="32"/>
                         <buttonCell key="cell" type="push" title="Install Update" bezelStyle="rounded" alignment="center" state="on" borderStyle="border" inset="2" id="173">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                            <font key="font" size="13" name="MonaSans-ExtraLight_Regular"/>
+                            <font key="font" size="27" name="MonaSans-ExtraLight_Regular"/>
                             <string key="keyEquivalent" base64-UTF8="YES">
 DQ
 </string>
